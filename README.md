@@ -6,6 +6,7 @@ Run the program by executing the Python script.
 Enter the equation of the line when prompted.
 The program will calculate the y values for x values ranging from -50 to 50 and print the graph on the Cartesian plane.
 * Use "^" to raise a term to the power of the following number
+* It may be necessary zoom out on in the terminal to view the whole graph. "⌘ + +/-" (Mac Terminal), "CTRL + scroll" (Windows Cmd).
 
 ## Bugs
 As the program is still under development it is plagued with many bugs and possible crashes. These will be fixed in future commits.
